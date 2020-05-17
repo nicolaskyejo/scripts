@@ -14,4 +14,4 @@ Example directory  ``C:\Users\Choochoo\bin``
 ```
 PS > $env:Path += ";C:\Users\Choochoo\bin"
 ```
-Alternative way - [docs.microsoft.com](https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v%3Doffice.14)
+Alternative way - [docs.microsoft.com](https://docs.microsoft.com/en-us/previous-versions/office/developer/sharepoint-2010/ee537574(v%3Doffice.14))

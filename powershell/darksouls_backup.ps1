@@ -1,5 +1,5 @@
 #TODO
-# Replace hardcoded paths
+# Replace hardcoded paths with registry values
 
 
 # Hard coded paths
